@@ -2,7 +2,7 @@
 
 <!-- [![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/) -->
 
-### Hi, I am Joshua Nwosu, a Full Stack Developer and a UI/UX Designer from Lagos, Nigeria. 
+### Hi, I am Joshua Nwosu, a Full Stack Developer and a UI/UX Designer from Lagos, Nigeria 🇳🇬
 _*Talk is cheap, show me the <code>code</code> 🔭*_
 
 <!--
