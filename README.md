@@ -1,5 +1,6 @@
 # Welcome
 ### Hi, I am Joshua Nwosu, a Full Stack Developer and a UI/UX Designer from Lagos, Nigeria. 
+#### Talk is cheap, show me the <code />
 
 <!--
 **joshnwosu/joshnwosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
