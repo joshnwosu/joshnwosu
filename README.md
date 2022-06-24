@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Joshua Nwosu, Full-Stack Developer and a UI/UX Designer. Welcome to my world 😁
 
 <!--
 **joshnwosu/joshnwosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
