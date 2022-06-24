@@ -1,6 +1,9 @@
-# Welcome
+# Welcome 👋
+
+<!-- [![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/) -->
+
 ### Hi, I am Joshua Nwosu, a Full Stack Developer and a UI/UX Designer from Lagos, Nigeria. 
-#### Talk is cheap, show me the <code />
+_*Talk is cheap, show me the <code>code</code> 🔭*_
 
 <!--
 **joshnwosu/joshnwosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
