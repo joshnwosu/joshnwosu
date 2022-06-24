@@ -5,6 +5,13 @@
 ### Hi, I am Joshua Nwosu, a Full Stack Developer and a UI/UX Designer from Lagos, Nigeria 🇳🇬
 _*Talk is cheap, show me the <code>code</code> 🔭*_
 
+
+### My Digital Footprints 🌱
+[Check my portfolio](https://joshnwosu.github.io)
+
+![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshnwosu&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshnwosu&layout=compact&hide_border=true&theme=radical)
+
 <!--
 **joshnwosu/joshnwosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
