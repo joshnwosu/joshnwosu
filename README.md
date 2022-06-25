@@ -11,9 +11,20 @@ _*Talk is cheap, show me the <code>code</code> 🔭*_
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/nwosu.joshua.3)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/codr_josh)
 
+<br />
+<br />
+
+## Expertise
+
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="React-Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
 
-### My Digital Footprints 🌱
+<br />
+<br />
+
+
+## My Digital Footprints 🌱
 [Check my portfolio](https://joshnwosu.github.io)
 
 ![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshnwosu&show_icons=true&hide_border=true&theme=radical)
