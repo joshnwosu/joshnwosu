@@ -25,7 +25,7 @@ _*Talk is cheap, show me the <code>code</code> 🔭*_
 
 <br />
 <br />
-
+<br />
 
 ## My Digital Footprints 🌱
 [Check my portfolio](https://joshnwosu.github.io)
