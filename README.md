@@ -18,6 +18,8 @@ _*Talk is cheap, show me the <code>code</code> 🔭*_
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="React-Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="Node-js" src="https://img.shields.io/badge/node-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=%23339933" />
 
 
 <br />
