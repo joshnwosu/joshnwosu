@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a mobile app that keeps track of your expenses
 - 🌱 I love learning
 
-💬 _*"Talk is cheap, show me the <code>code</code>"*_
+💬 _*"Talk is cheap, show me the <code>code</code>" - Linus Torvalds*_
 
 ## Connect with me
 
