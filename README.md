@@ -2,7 +2,7 @@
 
 <!-- [![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/) -->
 
-### Hi, I am a software engineer and a UI/UX designer from Lagos, Nigeria 🇳🇬
+### Hi, I am a software engineer from Lagos, Nigeria 🇳🇬
 - 🔭 I’m currently working on a mobile app that keeps track of your expenses
 - 🌱 I love learning
 
