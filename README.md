@@ -3,7 +3,7 @@
 <!-- [![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/) -->
 
 ### Hi, I am a software engineer from Lagos, Nigeria 🇳🇬
-- 🔭 I’m currently working on a mobile app that keeps track of your expenses
+- 🔭 I’m currently working on a cross-platform music player applications
 - 🌱 I love learning
 
 💬 _*"Talk is cheap, show me the <code>code</code>" - Linus Torvalds*_
