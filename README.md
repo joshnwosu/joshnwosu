@@ -3,7 +3,7 @@
 <!-- [![Header](https://github.com/ahmadchata/ahmadchata/blob/main/image/image.gif)](https://www.ahmadchata.me/) -->
 
 ### Hi, I am a software engineer from Lagos, Nigeria 🇳🇬
-- 🔭 I’m currently working on *@hyvelabs*
+- 🔭 I’m currently working on ###@hyvelabs###
 - 🌱 I love learning
 
 💬 _*"Talk is cheap, show me the <code>code</code>" - Linus Torvalds*_
