@@ -31,7 +31,7 @@
 <br />
 
 ## My Digital Footprints 🌱
-[Check my portfolio](https://joshnwosu.github.io)
+[Check my portfolio](https://joshnwosu.vercel.app)
 
 <!--
 ![Joshua's github stats](https://github-readme-stats.vercel.app/api?username=joshnwosu&show_icons=true&hide_border=true&theme=radical)
