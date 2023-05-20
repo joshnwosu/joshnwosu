@@ -19,7 +19,7 @@
 ## Expertise
 
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/Javascript-%239793ec.svg?style=for-the-badge&logo=typescript&logoColor=%239793ec" />
+<img align="left" alt="TypeScript" src="https://img.shields.io/badge/Typescript-%239793ec.svg?style=for-the-badge&logo=typescript&logoColor=%239793ec" />
 <img align="left" alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="React-Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Node" src="https://img.shields.io/badge/Node-%2333993320.svg?&style=for-the-badge&logo=react&logoColor=%23339933" />
